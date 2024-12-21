@@ -13,7 +13,7 @@
 - **React.js**: Front-end framework for building the user interface.
 - **Bootstrap**: For styling and layout, making the site responsive and visually appealing.
 - **HTML/CSS**: For structuring and styling the content of the website.
-- **JavaScript**: For interactive elements and functionality.
+- **TypeScript**: For interactive elements and functionality.
 
 ## Installation
 
